@@ -1,28 +1,24 @@
 <div align="center">
 
-  <!-- Banner Superior Gradiente (SVG Nativo) -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
-    <defs>
-      <linearGradient id="gradTop" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#d8b4fe;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#38bdf8;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#818cf8;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,0 L1200,0 L1200,40 Q900,100 600,50 Q300,0 0,60 Z" fill="url(#gradTop)" />
-  </svg>
+  <!-- Banner Superior de Olas (Gradiente Violeta - Turquesa) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8b4fe,50:38bdf8,100:818cf8&height=120&section=header" width="100%" />
+
+  <br>
+
+  <!-- Texto Animado (Máquina de escribir con 'Hola, soy Josue_') -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ECFF&center=true&vcenter=true&width=500&lines=Hola%2C+soy+Josue_;Ing.+de+Sistemas;Desarrollador+Software" alt="Typing SVG" />
+  </a>
 
   <br><br>
 
-  <!-- Título Principal -->
-  <h2>Ing. de Sistemas · UNSCH</h2>
-
-  <!-- Subtítulo / Intereses -->
+  <!-- Subtítulo e Intereses con Emojis -->
+  <p><b>Ing. de Sistemas · UNSCH</b></p>
   <p>🤖 IA &nbsp;·&nbsp; 🔐 Ciberseguridad &nbsp;·&nbsp; 🎮 Videojuegos &nbsp;·&nbsp; 📱 Apps &nbsp;·&nbsp; 🎬 Edición</p>
 
   <br>
 
-  <!-- Badges de Tecnologías Exactas -->
+  <!-- Insignias de Tecnologías -->
   <p>
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -51,18 +47,9 @@
     </a>
   </p>
 
-  <br><br>
+  <br>
 
-  <!-- Banner Inferior Gradiente (SVG Nativo) -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none" width="100%" height="80">
-    <defs>
-      <linearGradient id="gradBot" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#818cf8;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#38bdf8;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#d8b4fe;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0,60 Q300,100 600,50 Q900,0 1200,40 L1200,120 L0,120 Z" fill="url(#gradBot)" />
-  </svg>
+  <!-- Banner Inferior de Olas -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:818cf8,100:d8b4fe&height=120&section=footer" width="100%" />
 
 </div>
